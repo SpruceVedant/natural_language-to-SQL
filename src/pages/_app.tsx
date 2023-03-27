@@ -6,7 +6,7 @@ import "@/styles/globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
-// const satoshi = localFont({ src: '../assets/fonts/satoshi-variable.woff2' })
+
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
