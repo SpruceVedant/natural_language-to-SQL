@@ -1,7 +1,7 @@
 # natural_language-to-SQL
 Generate SQL queries with natural language.
 
-It uses openAI's chatGPT api
+It uses openAI's chatGPT api 
 
 Generate an api key and rename .env.production file to .env
 
